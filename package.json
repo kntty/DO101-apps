@@ -1,0 +1,22 @@
+{
+  "name": "do101-apps",
+  "version": "1.0.0",
+  "description": "Apps for the DO101 course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kntty/DO101-apps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kntty/DO101-apps/issues"
+  },
+  "homepage": "https://github.com/kntty/DO101-apps#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
